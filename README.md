@@ -1,3 +1,3 @@
 # test
-write name here:
-Date:
+write name here: yes
+Date: now
